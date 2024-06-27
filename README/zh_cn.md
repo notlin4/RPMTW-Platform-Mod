@@ -13,7 +13,7 @@
 
 #### 🌐 自叙文件语言
 
-- [English](../../README.md)
+- [English](../README.md)
 - [繁體中文](zh_tw.md)
 - 简体中文（当前语言）
 
