@@ -13,7 +13,7 @@
 #### 🌐 README Languages
 
 - English (Current Language)
-- [正體中文](README/zh_tw.md)
+- [繁體中文](README/zh_tw.md)
 - [简体中文](README/zh_cn.md)
 
 ## 📚 Introduction
